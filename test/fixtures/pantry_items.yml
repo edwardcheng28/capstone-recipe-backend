@@ -2,14 +2,10 @@
 
 one:
   ingredient_id: MyString
-  integer: MyString
   user_id: 1
   amount: MyString
-  integer: MyString
 
 two:
   ingredient_id: MyString
-  integer: MyString
   user_id: 1
   amount: MyString
-  integer: MyString
