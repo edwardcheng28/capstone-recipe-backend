@@ -6,7 +6,9 @@ Rails.application.routes.draw do
   get "/ingredients/:id" => "ingredients#show"
   get "/ingredients" => "ingredients#index"
   post "/ingredients" => "ingredients#create"
-  get ""
+
+  # get "/recipes/:id" => "recipes#show"
+  # get "/recipes" => "recipes#index"
 end
 
 # Not MVP
